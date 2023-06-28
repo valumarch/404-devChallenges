@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://https://github.com/valumarch/404-devChallenges">
+    <a href="https://github.com/valumarch/404-devChallenges">
       Solution
     </a>
     <span> | </span>
